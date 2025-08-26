@@ -15,13 +15,5 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "MonadoArt/VRC-Stencil-Debug"
-    ],
-    "packages":[
-        {
-            "name":"com.monadoart.vrcstencildebug",
-            "releases":[
-                "https://github.com/MonadoArt/VRC-Stencil-Debug/releases/download/0.0.1.4/com.monadoart.vrcstencildebug-0.0.1.4.zip"
-            ]
-        }
     ]
 }
