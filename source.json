@@ -1,24 +1,24 @@
 {
     "name":"Example Listing",
     "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "url":"https://MonadoArt.github.io/VRC-Tools-n-Such/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"michabych8@gmail.com",
+        "name":"Monado Art",
+        "url":"https://x.com/Monado_Art"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"VRC Tools 'n Such",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/MonadoArt/VRC-Tools-n-Such",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "MonadoArt/VRC-Stencil-Debug"
     ],
     "packages":[
         {
-            "name":"com.vrchat.udonsharp",
+            "name":"com.monadoart.vrcstencildebug",
             "releases":[
                 "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
                 "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
