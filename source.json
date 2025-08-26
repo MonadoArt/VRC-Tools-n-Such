@@ -20,8 +20,7 @@
         {
             "name":"com.monadoart.vrcstencildebug",
             "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+                "https://github.com/MonadoArt/VRC-Stencil-Debug/releases/download/0.0.1.4/com.monadoart.vrcstencildebug-0.0.1.4.zip"
             ]
         }
     ]
